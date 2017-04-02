@@ -1,0 +1,20 @@
+Basic Controls
+
+A or a ---- move left
+D or d ---- move right
+S or s ---- move down
+W or w ---- move up
+
+Setup:
+
+This project was built in Eclipse. Thus, the folder structure is:
+
+rootFolder/src/ <all .java source files>
+rootFolder/bin/ <all compiled .class files>
+rootFolder/bin/Images/ <all .png images files>
+
+Begin Playing
+-Run the MainClass class.
+-Expand the Window by dragging it with you mouse until all panels are visible, including the buttons/score display panel
+-Use arrow keys and being playing
+-After the Game Over screen pops up, you must click "Reset" button and resume playng
